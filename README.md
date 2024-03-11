@@ -10,7 +10,7 @@ Students will thoroughly **review the concepts** of:
 
 - HTML Tags
 - CSS Rules
-- JavaScript Dom & Events
+- JavaScript DOM & Events
 
 Students will get **hands-on experience** with:
 
