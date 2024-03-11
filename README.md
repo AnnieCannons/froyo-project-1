@@ -1,20 +1,65 @@
-# froyo-project-1
+# Froyo Website Project
 
-# In this project, you will learn how to design both the desktop and mobile versions of a froyo-themed website using HTML, CSS, and JavaScript. Please follow the steps outlined below to complete the project successfully.
+### Introduction
 
-***Step 1: Project Setup
-Fork this repository to add a copy to your own library of repositories on GitHub itself.
-Clone the forked repository to your local machine using the following command: git clone {your forked repository's URL}.
-Using terminal, navigate into the project directory using the following command: cd froyo-project-1.
-Create separate folders for the desktop and mobile versions of the website using the following command: mkdir desktop mobile.
+For this project, you will work a froyo-themed web project that pull together your knowledge of HTML, CSS, and JavaScript to date.
 
-***Step 2: Designing the Desktop Froyo Version
+### Learning Objectives
 
-***Step 3: Designing the Mobile Froyo Version
+Students will thoroughly **review the concepts** of:
 
-***Step 4: Testing and Deployment
+- HTML Tags
+- CSS Rules
+- JavaScript Dom & Events
 
-***Step 5: Submit Your Finished Project
-Push your code to your repository on GitHub.
-Then submit the URL of your repository on Canvas.
+Students will get **hands-on experience** with:
+
+- HTML Syntax & Structure
+- HTML Building
+- Forms & Advanced HTML
+- CSS Property & Value Pairs
+- CSS Box Model
+- CSS Layout
+- CSS Flexbox
+- CSS Responsive Design
+- JavaScript Variables
+- JavaScript Data Types
+- JavaScript Functions
+- JavaScript Parameters & Arguments
+- JavaScript Return Statements
+- JavaScript Functions & Arrow Functions
+- Scope in JavaScript
+- JavaScript DOM
+- JavaScript Events & Event Listeners
+
+### How To Setup This Project
+
+Complete the following steps to perform the setup for this project.
+1. Fork this repository to add a copy to your own library of repositories on GitHub itself.
+2. Clone the forked repository to your local machine using the following command: git clone {your forked repository's URL}.
+3. Using terminal, navigate into the project directory using the following command: cd froyo-project-1.
+4. Look through all of the files in this repository to ensure you understand the purpose of each. Please ask any questions if needed.
+
+### Daily Project Checkpoints
+
+Day 1:
+
+Day 2:
+
+Day 3:
+
+Day 4: 
+
+### Resources
+
+- 
+
+### Bonus Features & Opportunities (Optional)
+
+1. Create the About Page.
+2. Create the Blog Page.
+3. Add another social media item to the footer.
+
+### How To Submit Your Finished Project
+Submit your finished project by pushing the repository to GitHub and submitting the repository URL to Canvas.
 
