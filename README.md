@@ -42,13 +42,28 @@ Complete the following steps to perform the setup for this project.
 
 ### Daily Project Checkpoints
 
-Day 1:
+Day 1: Complete the desktop version of the home page.
+- Navigation Bar: Home, About, Blog, & Contact Links
+- Logo
+- Header Image
+- New Product Section
+- Image Link Section: Products, Our Story, Flavors, Location
+- Footer with Social Media Links & Copyright
 
-Day 2:
+Day 2: Complete the desktop version of the contact page.
+- Navigation Bar: Home, About, Blog, & Contact Links
+- Logo
+- Contact Header
+- Map
+- Inquiry Form: Name, Email, Subject, Share Your Thoughts, Send Button
+- "We'd Love to Hear from You" Section
+- Footer with Social Media Links & Copyright
 
-Day 3:
+Day 3: Complete the mobile version of the home page.
+- Ensure that what you completed on day 1 is responsive to all device sizes.
 
-Day 4: 
+Day 4: Complete the mobile version of the contact page.
+- Ensure that what you completed on day 2 is responsive to all device sizes.
 
 ### Resources
 
@@ -59,6 +74,7 @@ Day 4:
 1. Create the About Page.
 2. Create the Blog Page.
 3. Add another social media item to the footer.
+4. Make at least one of the items clickable in the Image Link Section from Day 1, which would lead to a page you created for it.
 
 ### How To Submit Your Finished Project
 Submit your finished project by pushing the repository to GitHub and submitting the repository URL to Canvas.
